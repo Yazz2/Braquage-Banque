@@ -1,12 +1,5 @@
 Braquage = {}
 
-
-
-
-
-
-
-
 Braquage.Time = {
 
 	{name = "Commencer le braquage [~y~Débutant~s~]", sousname = "Récompense : 1250~g~$~s~ ",  time = 0.001, money = 1250},
